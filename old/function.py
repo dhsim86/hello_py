@@ -114,7 +114,7 @@ def outer(a, b):
 
 ########################################################################
 
-# Closure example
+# Closure old
 def knight(saying):
   def inner():
     return "We are the knights who say: '%s'" % saying
